@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BFS",
+            "request": "launch",
+            "mainClass": "BFS"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Dijkstra",
+            "request": "launch",
+            "mainClass": "Dijkstra"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "Main"
+        }
+    ]
+}
